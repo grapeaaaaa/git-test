@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello git push test");
         System.out.println("hello git push test2");
         System.out.println("hello git push_last test");
+        System.out.println("for chunmeng");
     }
 }
